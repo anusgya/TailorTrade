@@ -1,5 +1,4 @@
-**TailorTrade - Custom Clothing Marketplace
-**
+**TailorTrade - Custom Clothing Marketplace**
 
 🎯 **Overview**
 
