@@ -37,6 +37,7 @@ Khaki is a revolutionary custom clothing platform that connects customers with s
 <div align="center">
   <img src="https://github.com/user-attachments/assets/90544961-6f6e-4bdf-bbdf-2cc7555b725e" alt="Sign Up" width="400"/>
   <img src="https://github.com/user-attachments/assets/0d0c23e1-d552-4edf-98c5-cc68cdc4d97c" alt="Login" width="400"/>
+  <img src="https://github.com/user-attachments/assets/42b8aa90-ee77-4f1a-be04-3e408df0276a" alt="Login" width="400"/>
 </div>
 
 ### Customer Journey
