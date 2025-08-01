@@ -77,24 +77,27 @@ Khaki is a revolutionary custom clothing platform that connects customers with s
 
 **Tailor Order Dashboard**
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4a14d36b-386d-4d69-9805-8d884d5c267f" alt="Notifications" width="500"/>
+  <img src="https://github.com/user-attachments/assets/4a14d36b-386d-4d69-9805-8d884d5c267f" alt="Notifications" width="600"/>
 </div>
 
 
 **Customer Order Tracking**
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6d209fca-7629-4227-bd65-638dc16fa9d5" alt="Request Form" width="500"/>
+  <img src="https://github.com/user-attachments/assets/6d209fca-7629-4227-bd65-638dc16fa9d5" alt="Request Form" width="600"/>
 
 </div>
 
 ### Reviews, Ratings & Notifications
 
 **Customer Review System**
-  <img src="https://github.com/user-attachments/assets/a4d0d029-0195-420b-8bca-d7673b36ecb4" alt="Measurements" width="500"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a4d0d029-0195-420b-8bca-d7673b36ecb4" alt="Measurements" width="600"/>
+</div>
 
 **Notification System**
-  <img src="https://github.com/user-attachments/assets/fca039eb-299a-4e42-9441-211ff4885eaa" alt="Requirements" width="500"/>
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fca039eb-299a-4e42-9441-211ff4885eaa" alt="Requirements" width="600"/>
+</div>
 
 ## 🛠️ Technology Stack
 
