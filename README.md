@@ -42,6 +42,11 @@ Khaki is a revolutionary custom clothing platform that connects customers with s
 
 ### Customer Journey
 
+**Dashboard**
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0eeb312f-4da3-4655-ba69-e5f4c5008a7f" alt="View Bids" width="600"/>
+</div>
+
 **Create Request Process**
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7b0ec7a3-7126-4a5d-9f7f-5a125dfa1a92" alt="Request Form" width="500"/>
@@ -58,8 +63,7 @@ Khaki is a revolutionary custom clothing platform that connects customers with s
 
 ### Tailor Dashboard
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fb52db22-76f8-41d7-b01d-78a2065dbb1e" alt="Tailor Dashboard" width="600"/>
-
+  <img src="https://github.com/user-attachments/assets/52697d0e-598b-4bd2-964d-58d0c9d7ff9e" alt="Tailor Dashboard" width="600"/>
 </div>
 
 **Submit Bid Process**
