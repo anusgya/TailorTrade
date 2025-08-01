@@ -42,12 +42,12 @@ Khaki is a revolutionary custom clothing platform that connects customers with s
 
 ### Customer Journey
 
-**Dashboard**
+**Customer Dashboard**
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0eeb312f-4da3-4655-ba69-e5f4c5008a7f" alt="View Bids" width="600"/>
+  <img src="https://github.com/user-attachments/assets/925532ba-08e5-465c-b3d9-9db35c89cb02" alt="View Bids" width="600"/>
 </div>
 
-**Create Request Process**
+**Create Clothing Request**
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7b0ec7a3-7126-4a5d-9f7f-5a125dfa1a92" alt="Request Form" width="500"/>
   <img src="https://github.com/user-attachments/assets/664f9807-a45e-4da1-a7ca-0291d5ad6e60" alt="Requirements" width="500"/>
@@ -55,38 +55,46 @@ Khaki is a revolutionary custom clothing platform that connects customers with s
 
 </div>
 
-**View Bids**
+**View, Compare Tailor Bids, & Select a Tailor**
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0eeb312f-4da3-4655-ba69-e5f4c5008a7f" alt="View Bids" width="600"/>
 </div>
 
 
-### Tailor Dashboard
+### Tailor Workflow
+
+**Browse Customer Requests**
 <div align="center">
   <img src="https://github.com/user-attachments/assets/52697d0e-598b-4bd2-964d-58d0c9d7ff9e" alt="Tailor Dashboard" width="600"/>
 </div>
 
-**Submit Bid Process**
+**Submit Competitive Bid**
 <div align="center">
     <img src="https://github.com/user-attachments/assets/5b7cf132-21a5-4a96-9c0d-c0f31dcc24cd" alt="Tailor Dashboard" width="600"/>
 </div>
 
-### Bids and Order Management
+### Order Management
 
-**Tailor side Bids and Order Tracking System**
+**Tailor Order Dashboard**
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ff1c5235-8927-4a09-be19-92377844ad67" alt="Order Tracking" width="500"/>
   <img src="https://github.com/user-attachments/assets/4a14d36b-386d-4d69-9805-8d884d5c267f" alt="Notifications" width="500"/>
 </div>
 
 
-**Customer side Order Tracking, Review and Notification System**
+**Customer Order Tracking**
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6d209fca-7629-4227-bd65-638dc16fa9d5" alt="Request Form" width="500"/>
-  <img src="https://github.com/user-attachments/assets/a4d0d029-0195-420b-8bca-d7673b36ecb4" alt="Measurements" width="500"/>
-  <img src="https://github.com/user-attachments/assets/fca039eb-299a-4e42-9441-211ff4885eaa" alt="Requirements" width="500"/>
 
 </div>
+
+### Reviews, Ratings & Notifications
+
+**Customer Review System**
+  <img src="https://github.com/user-attachments/assets/a4d0d029-0195-420b-8bca-d7673b36ecb4" alt="Measurements" width="500"/>
+
+**Notification System**
+  <img src="https://github.com/user-attachments/assets/fca039eb-299a-4e42-9441-211ff4885eaa" alt="Requirements" width="500"/>
+
 
 ## 🛠️ Technology Stack
 
