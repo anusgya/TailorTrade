@@ -44,9 +44,9 @@ Khaki is a revolutionary custom clothing platform that connects customers with s
 
 **Create Request Process**
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7b0ec7a3-7126-4a5d-9f7f-5a125dfa1a92" alt="Request Form" width="300"/>
-  <img src="https://github.com/user-attachments/assets/664f9807-a45e-4da1-a7ca-0291d5ad6e60" alt="Requirements" width="300"/>
-  <img src="https://github.com/user-attachments/assets/d2569af5-48e7-4e89-88b4-fa0d1f15a78e" alt="Measurements" width="300"/>
+  <img src="https://github.com/user-attachments/assets/7b0ec7a3-7126-4a5d-9f7f-5a125dfa1a92" alt="Request Form" width="400"/>
+  <img src="https://github.com/user-attachments/assets/664f9807-a45e-4da1-a7ca-0291d5ad6e60" alt="Requirements" width="400"/>
+  <img src="https://github.com/user-attachments/assets/d2569af5-48e7-4e89-88b4-fa0d1f15a78e" alt="Measurements" width="400"/>
 
 </div>
 
@@ -78,9 +78,9 @@ Khaki is a revolutionary custom clothing platform that connects customers with s
 
 **Customer side Order Tracking, Review and Notification System**
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6d209fca-7629-4227-bd65-638dc16fa9d5" alt="Request Form" width="300"/>
-  <img src="https://github.com/user-attachments/assets/a4d0d029-0195-420b-8bca-d7673b36ecb4" alt="Measurements" width="300"/>
-  <img src="https://github.com/user-attachments/assets/fca039eb-299a-4e42-9441-211ff4885eaa" alt="Requirements" width="300"/>
+  <img src="https://github.com/user-attachments/assets/6d209fca-7629-4227-bd65-638dc16fa9d5" alt="Request Form" width="400"/>
+  <img src="https://github.com/user-attachments/assets/a4d0d029-0195-420b-8bca-d7673b36ecb4" alt="Measurements" width="400"/>
+  <img src="https://github.com/user-attachments/assets/fca039eb-299a-4e42-9441-211ff4885eaa" alt="Requirements" width="400"/>
 
 </div>
 
