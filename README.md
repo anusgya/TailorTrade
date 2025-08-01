@@ -55,7 +55,7 @@ Khaki is a revolutionary custom clothing platform that connects customers with s
 
 </div>
 
-**View, Compare Tailor Bids, & Select a Tailor**
+**Compare Tailor Bids & Select a Tailor**
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0eeb312f-4da3-4655-ba69-e5f4c5008a7f" alt="View Bids" width="600"/>
 </div>
