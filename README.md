@@ -91,7 +91,7 @@ Khaki is a custom clothing platform that connects customers with skilled tailors
 
 **Customer Review System**
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a4d0d029-0195-420b-8bca-d7673b36ecb4" alt="Measurements" width="600"/>
+  <img src="https://github.com/user-attachments/assets/2e6f2fb6-3d17-4eaf-bf73-38ea31fa1a3d" alt="Measurements" width="600"/>
 </div>
 
 **Notification System**
