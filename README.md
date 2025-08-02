@@ -1,4 +1,4 @@
-# Khaki - Personalized clothing marketplace with multi-tailor bidding
+# Khaki - Clothing design request system with tailor bidding
 
 ## 🎯 Overview
 Khaki is a custom clothing platform that connects customers with skilled tailors through a competitive bidding system. Customers can specify their desired outfit's design with custom fabric, size, color, and other preferences, receive multiple proposals from verified tailors, and choose the best offer based on price, tailor reviews, and ratings.
